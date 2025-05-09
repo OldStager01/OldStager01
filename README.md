@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Tambat</h1>
 <p align="center">
-  <em>Full-Stack Developer | Backend Specialist | AI Integrator</em>
+  <em>Full-Stack Developer | Backend Specialist | AI & Cloud Enthusiast</em>
 </p>
 
 <p align="center">
