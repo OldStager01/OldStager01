@@ -78,6 +78,14 @@ I believe in **clean architecture**, **developer empathy**, and **continuous lea
 
 ---
 
+### 🌍 Open Source Contributions
+
+#### 📦 [react-native-document-picker #823](https://github.com/react-native-documents/document-picker/pull/823)
+> 🛠️ *Fixed Android's long-term access directory picker response*  
+> ✅ *Merged by [`@vonovak`](https://github.com/vonovak)* — 3 commits from **`OldStager01`** to `main`  
+> 📈 <img src="https://img.shields.io/npm/dw/@react-native-documents/picker?label=Weekly%20Downloads&style=flat-square&color=brightgreen" alt="NPM Weekly Downloads" />
+
+---
 
 ### 🚀 Featured Projects
 
@@ -105,16 +113,6 @@ Explore more 🔗 [@OldStager01](https://github.com/OldStager01?tab=repositories
 - ⚔️ **Code-e-Fiesta, Code Relay, Web Battles – Top Rankings**  
 
 ---
-
-### 🌍 Open Source Contributions
-
-#### 📦 [react-native-document-picker #823](https://github.com/react-native-documents/document-picker/pull/823)
-> 🛠️ *Fixed Android's long-term access directory picker response*  
-> ✅ *Merged by [`@vonovak`](https://github.com/vonovak)* — 3 commits from **`OldStager01`** to `main`  
-> 📈 <img src="https://img.shields.io/npm/dw/@react-native-documents/picker?label=Weekly%20Downloads&style=flat-square&color=brightgreen" alt="NPM Weekly Downloads" />
-
----
-
 ### 📊 GitHub Stats
 
 <table>
