@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-I'm a 3rd-year B.Tech Computer Engineering student passionate about:
+I'm a Final Year B.Tech Computer Engineering student passionate about:
 
 - ⚙️ Building scalable backend systems.
 - 🤖 Integrating AI into real-world applications.
