@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tanmay Tambat</h1>
 <p align="center">
-  <em>Software Engineer · mostly backend · Go, cloud, and a fair bit of AI lately</em>
+  <em>Software Engineer · building across the stack · cloud, distributed systems, and a fair bit of AI lately</em>
 </p>
 
 <p align="center">
@@ -114,17 +114,15 @@ More over at [@OldStager01](https://github.com/OldStager01?tab=repositories).
 ---
 
 ### GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=OldStager01&show_icons=true&theme=radical" alt="Tanmay's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldStager01&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+ <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OldStager01&theme=radical" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OldStager01&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OldStager01&theme=radical" />
+  </p>
+  <p align="center">
+ 
 
 ---
 
@@ -133,3 +131,4 @@ More over at [@OldStager01](https://github.com/OldStager01?tab=repositories).
 Happy to talk shop or team up on something. Easiest to reach at **tanmaytambat4@gmail.com**.
 
 > "Ærlighed i små ting er ikke nogen lille ting." — Honesty in small things is not a small thing.
+\
